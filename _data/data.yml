@@ -1,0 +1,19 @@
+#
+# Informações do site
+#
+menu:  
+     about: Sobre
+     projects: Projetos 
+     language: English 
+     link: /en
+
+about:  
+     title:  Minha Experiência
+     design: Design
+     code: Codigo
+     tools: Ferramentas
+     detail: |
+              Content creator and programming developer!
+              
+projects:  
+     title:  Projetos

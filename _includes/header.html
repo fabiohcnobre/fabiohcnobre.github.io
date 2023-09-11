@@ -1,3 +1,8 @@
+{% if page.language == "en" %}
+  {% assign menu = site.data.dataen.menu %}
+{% else %}
+  {% assign menu = site.data.data.menu %}
+{% endif %}
 <div id="particles-js">
   <div class="header">
       <h1>
@@ -6,13 +11,14 @@
       </h1>
       <div class="header-icons">
         <a aria-label="Envie um e-mail" href="{{site.email}}"><i class="icon fa fa-envelope"></i></a>
+        <a aria-label="Meu linkedin" target="_blank" href="https://linkedin.com/{{site.linkedin_username}}#"><i class="icon fa-brands fa-linkedin" aria-hidden="true"></i></a>
         <a aria-label="Meu Twitter" target="_blank" href="https://x.com/{{site.twitter_username}}#"><i class="icon fa-brands fa-x-twitter" aria-hidden="true"></i></a>
         <a aria-label="Meu Github" target="_blank" href="https://github.com/{{site.github_username}}"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
       </div>
       <div class="header-links">
-        <a class="link" href="#about" data-scroll>Sobre</a>
-        <a class="link" href="#projects" data-scroll>Projetos</a>
-        <a class="link" href="/en" data-scroll>English</a>
+        <a class="link" href="#about" data-scroll>{{menu.about}}</a>
+        <a class="link" href="#projects" data-scroll>{{menu.projects}}</a>
+        <a class="link" href="{{menu.link}}" >{{menu.language}}</a>
       </div>
   </div>
   <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>

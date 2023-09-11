@@ -1,8 +1,6 @@
 # Site settings
 title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+description: A blog about lorem ipsum dolor sit amet 
 
 # User settings
 username: FabioHCNobre
@@ -11,6 +9,7 @@ user_title: Software Developer
 email: fabiohcnobre@hotmail.com
 twitter_username: fabiohcnobre
 github_username:  fabiohcnobre 
+linkedin_username:  fabiohcnobre 
 
 # Google-analytics
 google-analytics:

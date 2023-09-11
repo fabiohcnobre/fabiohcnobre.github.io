@@ -1,0 +1,20 @@
+#
+# Informações do site
+#
+menu:  
+     about: About
+     projects: Projects 
+     language: Português-Brasil 
+     link: / 
+
+about:  
+     title: My Expertise
+     design: Design
+     code: Code
+     tools: Tools
+     detail: |
+              Content creator and programming developer!
+
+                            
+projects:  
+     title:  Projects

@@ -13,7 +13,7 @@ linkedin_username:  fabiohcnobre
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: G-LXPK0J0Z28
 
 exclude: ['package.json', 'src' , 'node_modules']
 

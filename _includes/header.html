@@ -1,8 +1,4 @@
-{% if page.language == "en" %}
-  {% assign menu = site.data.dataen.menu %}
-{% else %}
-  {% assign menu = site.data.data.menu %}
-{% endif %}
+{% assign menu = data.menu %} 
 <div id="particles-js">
   <div class="header">
       <h1>

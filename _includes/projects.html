@@ -1,8 +1,4 @@
-{% if page.language == "en" %}
-{% assign projects = site.data.dataen.projects %}
-{% else %}
-{% assign projects = site.data.data.projects %}
-{% endif %}
+{% assign projects = data.projects %} 
 <div class="user-details">
   <h1> {{projects.title}}  </h1>
 </div>

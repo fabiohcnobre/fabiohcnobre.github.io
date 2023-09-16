@@ -1,9 +1,5 @@
-{% if page.language == "en" %}
-{% assign about = site.data.dataen.about %}
-{% else %}
-{% assign about = site.data.data.about %}
-{% endif %}
- <div class="user-details">
+{% assign about = data.about %}
+<div class="user-details">
   <h1> {{about.title}} </h1>
   <p> {{ about.detail}} </p>
 </div>

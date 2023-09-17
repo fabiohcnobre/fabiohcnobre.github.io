@@ -1,15 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet 
+title: 'FABIOHCNOBRE'
+description: Developer
+url: 'https://fabiohcnobre.github.io/'
 
 # User settings
 username: FabioHCNobre
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: Software Developer
 user_title: Software Developer
 email: fabiohcnobre@hotmail.com
 twitter_username: fabiohcnobre
 github_username:  fabiohcnobre 
 linkedin_username:  fabiohcnobre 
+chrome_mobile_color: 1976d2
 
 # Google-analytics
 google-analytics:

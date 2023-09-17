@@ -10,6 +10,8 @@ menu:
 about:  
      title: My Expertise
      design: Design
+     curriculum: My Curriculum
+     curriculumLink: /curriculo
      code: Code
      tools: Tools
      detail: |

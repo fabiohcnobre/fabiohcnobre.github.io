@@ -10,10 +10,15 @@ menu:
 about:  
      title:  Minha Experiência
      design: Design
+     curriculum: Meu Currículo
+     curriculumLink: /curriculo
      code: Codigo
      tools: Ferramentas
      detail: |
               Criador de conteúdo, apaixonado por tecnologia e inovação.
               
 projects:  
-     title:  Projetos
+     title:  Projetos 
+     
+
+

@@ -1,21 +1,7 @@
 {
-  "name": "particle",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "gulp"
-  },
-  "author": "Nathan Randecker",
-  "license": "ISC",
+  "name": "fabiohcnobre.github.io",
+  "packageManager": "yarn@3.6.3",
   "dependencies": {
-    "browser-sync": "^2.26.3",
-    "gulp": "^4.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-csso": "^3.0.1",
-    "gulp-imagemin": "^5.0.3",
-    "gulp-plumber": "^1.2.1",
-    "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.1"
+    "particle": "^0.1.4"
   }
 }

@@ -59,6 +59,8 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Install [Yarn](https://yarnpkg.com/): `npm install -g yarn`
 - Install dependencies: `yarn`
 - Run: `gulp`
+- Run: 'sass src/styles/main.scss assets/css/main.css'
+ 
 
 ## License
 

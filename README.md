@@ -4,17 +4,6 @@
 
 This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
 
-The Theme features:
-
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
-
 ## Basic Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
@@ -49,18 +38,6 @@ gplus_username:  lorem_ipsum
 - Particle Customization
   - Edit the json data in particle function in app.js
   - Refer to [Particle.js](https://github.com/VincentGarreau/particles.js/) for help
-
-## Running the blog in local
-
-In order to compile the assets and run Jekyll on local you need to follow those steps:
-
-- Install [NodeJS](https://nodejs.org/)
-- Install [Jekyll](https://jekyllrb.com): `sudo gem install bundler jekyll`
-- Install [Yarn](https://yarnpkg.com/): `npm install -g yarn`
-- Install dependencies: `yarn`
-- Run: `gulp`
-- Run: 'sass src/styles/main.scss assets/css/main.css'
- 
 
 ## License
 

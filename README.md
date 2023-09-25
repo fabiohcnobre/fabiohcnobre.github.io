@@ -21,13 +21,13 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: FabioHCNobre
+user_description: fabiohcnobre Developer
+user_title: FabioHCNobre Developer
+email: 
+twitter_username: fabiohcnobre
+github_username:  fabiohcnobre
+gplus_username:  fabiohcnobre
 ```
 
 **Don't forget to change your url before you deploy your site!**

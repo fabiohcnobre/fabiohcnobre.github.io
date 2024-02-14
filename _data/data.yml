@@ -52,14 +52,11 @@ listprojects:
           details: |
                CIAF Emissor NFe é uma solução simples e eficaz para as pequenas empresas que desejam apenas efetuar a emissão de Notas Fiscais Eletrônicas - NFe.
                Esta solução está preparada e homologada em todos os estados e atende plenamente a atual legislação tributária.
-     - project:      
-          title: Ciaf Emissor de Nota Fiscal Eletrônica
-          subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'
-          imagem: /assets/img/ciafemissor.jpg
-          posicaoimagem: images-left
-          classcontem: 'contents-right'
-          linklabel: 'Conheça o projeto CIAF'
-          link: https://site.ciaf.com.br/solucoes_detalhes/11
+     - project: 
+          title: Sou + Conectado - Extensão PUC Minas
+          subtitle: 'Maquina virtual Java - Banco de Dados' 
+          posicaoimagem: images-right   
+          classcontem: 'contents-left' 
           details: |
-               CIAF Emissor NFe é uma solução simples e eficaz para as pequenas empresas que desejam apenas efetuar a emissão de Notas Fiscais Eletrônicas - NFe.
-               Esta solução está preparada e homologada em todos os estados e atende plenamente a atual legislação tributária.
+               O objetivo do projeto de extensão Sou mais Conectado é levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social para a comunidade de Poços de Caldas.
+     

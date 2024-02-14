@@ -35,6 +35,7 @@ listprojects:
           title: MetaNet - MetaPosto
           subtitle: 'C# - Windows Forms - SQL Server - NF-e, NFC-e, CT-e e MDF-e'
           imagem: /assets/img/metaposto.jpg
+          imgalt: MetaPosto
           posicaoimagem: images-left    
           classcontem: 'contents-right'
           linklabel: 'Website MetaNet'
@@ -45,6 +46,7 @@ listprojects:
           title: Ciaf - NF-e & NFC-e
           subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'
           imagem: /assets/img/ciafemissor.jpg
+          imgalt: CIAF
           posicaoimagem: images-right
           classcontem: 'contents-left'
           linklabel: 'Website CIAF'
@@ -52,3 +54,11 @@ listprojects:
           details: |
                CIAF Emissor NFe is a simple and effective solution for small companies that just want to issue Electronic Invoices - NFe.
                This solution is prepared and approved in all states and fully complies with current tax legislation.
+     - project: 
+          title: Sou + Conectado - Extensão PUC Minas
+          subtitle: 'Maquina virtual Java - Banco de Dados' 
+          posicaoimagem: images-right   
+          classcontem: 'contents-left' 
+          details: |
+               O objetivo do projeto de extensão Sou mais Conectado é levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social para a comunidade de Poços de Caldas.
+     

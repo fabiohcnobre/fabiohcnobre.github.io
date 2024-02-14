@@ -35,6 +35,7 @@ listprojects:
           title: MetaNet - MetaPosto
           subtitle: 'C# - Windows Forms - SQL Server - NF-e, NFC-e, CT-e e MDF-e'
           imagem: /assets/img/metaposto.jpg
+          imgalt: Imagem do MetaPosto
           posicaoimagem: images-right   
           classcontem: 'contents-left'
           linklabel: 'Conheça o projeto MetaNet'
@@ -45,6 +46,7 @@ listprojects:
           title: Ciaf Emissor de Nota Fiscal Eletrônica
           subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'
           imagem: /assets/img/ciafemissor.jpg
+          imgalt: Imagem do CIAF
           posicaoimagem: images-left
           classcontem: 'contents-right'
           linklabel: 'Conheça o projeto CIAF'

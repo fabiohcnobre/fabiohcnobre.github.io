@@ -13,10 +13,14 @@
           <li>{{projeto.subtitle}}</li>
         </ul>
         <p>{{projeto.details}}</p>
+        {% if projeto.link %} 
         <a class="project-link" href="{{projeto.link}}">{{projeto.linklabel}}</a>
+        {% endif %}
       </div>
       <div class="{{projeto.posicaoimagem}}">
-        <img alt="mountains" src="{{ projeto.imagem | prepend: site.baseurl }}" />
+        {% if projeto.imagem %} 
+        <img alt="{{ projeto.imgalt}}" src="{{ projeto.imagem | prepend: site.baseurl }}" />
+        {% endif %}
       </div>
   </div>         
   {% endfor %} 

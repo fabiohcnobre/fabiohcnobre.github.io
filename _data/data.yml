@@ -2,7 +2,8 @@
 # Informações do site
 #
 menu:  
-     about: Sobre
+     about: Sobre     
+     subtitle: 'Desenvolvedor de Software'
      projects: Projetos 
      language: English 
      link: /en
@@ -17,6 +18,10 @@ about:
      detail: |
           Criador de conteúdo, apaixonado por tecnologia e inovação.
 
+footer:  
+     title:  Fiz com muito
+     subtitle: 'para você!'
+
 projects:
      title: Projetos 
 
@@ -24,7 +29,7 @@ listprojects:
      - project: 
           title: MetaNet - MetaPosto
           subtitle: 'C# - Windows Forms - SQL Server - NF-e, NFC-e, CT-e e MDF-e'
-          imagem: /assets/img/mountains.jpg
+          imagem: /assets/img/metaposto.jpg
           posicaoimagem: images-right   
           classcontem: 'contents'
           linklabel: 'Conheça o projeto MetaNet'
@@ -32,9 +37,9 @@ listprojects:
           details: |
                A Metanet é uma empresa especializada em desenvolvimento de sistemas de automação para Revendedores, Distribuidores de Combustíveis, Lojas de Conveniência e Lubrificantes e está no mercado desde 1997.
      - project:      
-          title: Ciaf Emissor de Nota Fiscal Eletronica
+          title: Ciaf Emissor de Nota Fiscal Eletrônica
           subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'
-          imagem: /assets/img/skate.jpg
+          imagem: /assets/img/ciafemissor.jpg
           posicaoimagem: images-left
           classcontem: 'contents-right'
           linklabel: 'Conheça o projeto CIAF'

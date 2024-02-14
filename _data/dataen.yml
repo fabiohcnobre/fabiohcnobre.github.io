@@ -3,6 +3,7 @@
 #
 menu:  
      about: About
+     subtitle: 'Software Developer'
      projects: Projects 
      language: Português-Brasil 
      link: / 
@@ -20,25 +21,29 @@ about:
 projects:
      title: Projetos 
 
+footer:  
+     title:   
+     subtitle: 'for you'
+
 listprojects:
      - project: 
           title: MetaNet - MetaPosto
           subtitle: 'C# - Windows Forms - SQL Server - NF-e, NFC-e, CT-e e MDF-e'
-          imagem: /assets/img/mountains.jpg
+          imagem: /assets/img/metaposto.jpg
           posicaoimagem: images-right   
-          classcontem: 'contents-right'
-          linklabel: 'Conheça o projeto'
+          classcontem: 'contents'
+          linklabel: 'Website MetaNet'
           link: https://metanetsistemas.com.br/modulos
           details: |
-               A Metanet é uma empresa especializada em desenvolvimento de sistemas de automação para Revendedores, Distribuidores de Combustíveis, Lojas de Conveniência e Lubrificantes e está no mercado desde 1997.
+               Metanet is a company specialized in developing automation systems for Resellers, Fuel Distributors, Convenience Stores and Lubricants and has been on the market since 1997.
      - project:      
-          title: Ciaf Emissor de Nota Fiscal Eletronica
+          title: Ciaf - NF-e & NFC-e
           subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'
-          imagem: /assets/img/mountains.jpg
+          imagem: /assets/img/ciafemissor.jpg
           posicaoimagem: images-left
-          classcontem: 'contents'
-          linklabel: 'Conheça o projeto'
+          classcontem: 'contents-right'
+          linklabel: 'Website CIAF'
           link: https://site.ciaf.com.br/solucoes_detalhes/11
           details: |
-               CIAF Emissor NFe é uma solução simples e eficaz para as pequenas empresas que desejam apenas efetuar a emissão de Notas Fiscais Eletrônicas - NFe.
-               Esta solução está preparada e homologada em todos os estados e atende plenamente a atual legislação tributária.
+               CIAF Emissor NFe is a simple and effective solution for small companies that just want to issue Electronic Invoices - NFe.
+               This solution is prepared and approved in all states and fully complies with current tax legislation.

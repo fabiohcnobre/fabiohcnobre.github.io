@@ -25,7 +25,10 @@ footer:
      update: 'Atualizado em '
 
 projects:
-     title: Projetos 
+     title: Projetos     
+     detail: |
+          Projetos que participei e contribui para o desenvolvimento.
+
 
 listprojects:
      - project: 
@@ -33,11 +36,22 @@ listprojects:
           subtitle: 'C# - Windows Forms - SQL Server - NF-e, NFC-e, CT-e e MDF-e'
           imagem: /assets/img/metaposto.jpg
           posicaoimagem: images-right   
-          classcontem: 'contents'
+          classcontem: 'contents-left'
           linklabel: 'Conheça o projeto MetaNet'
           link: https://metanetsistemas.com.br/modulos
           details: |
                A Metanet é uma empresa especializada em desenvolvimento de sistemas de automação para Revendedores, Distribuidores de Combustíveis, Lojas de Conveniência e Lubrificantes e está no mercado desde 1997.
+     - project:      
+          title: Ciaf Emissor de Nota Fiscal Eletrônica
+          subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'
+          imagem: /assets/img/ciafemissor.jpg
+          posicaoimagem: images-left
+          classcontem: 'contents-right'
+          linklabel: 'Conheça o projeto CIAF'
+          link: https://site.ciaf.com.br/solucoes_detalhes/11
+          details: |
+               CIAF Emissor NFe é uma solução simples e eficaz para as pequenas empresas que desejam apenas efetuar a emissão de Notas Fiscais Eletrônicas - NFe.
+               Esta solução está preparada e homologada em todos os estados e atende plenamente a atual legislação tributária.
      - project:      
           title: Ciaf Emissor de Nota Fiscal Eletrônica
           subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'

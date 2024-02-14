@@ -19,21 +19,24 @@ about:
      detail: |
           Content creator and programming developer!
 
-projects:
-     title: Projetos 
-
 footer:  
      title:   
      subtitle: 'for you'
      update: 'Update: '
+
+
+projects:
+     title: Projetos 
+     detail: |
+          Projetos que participei e contribui para o desenvolvimento.
 
 listprojects:
      - project: 
           title: MetaNet - MetaPosto
           subtitle: 'C# - Windows Forms - SQL Server - NF-e, NFC-e, CT-e e MDF-e'
           imagem: /assets/img/metaposto.jpg
-          posicaoimagem: images-right   
-          classcontem: 'contents'
+          posicaoimagem: images-left    
+          classcontem: 'contents-right'
           linklabel: 'Website MetaNet'
           link: https://metanetsistemas.com.br/modulos
           details: |
@@ -42,8 +45,8 @@ listprojects:
           title: Ciaf - NF-e & NFC-e
           subtitle: 'C# - WPF - My SQL - NF-e, NFC-e, CT-e e MDF-e'
           imagem: /assets/img/ciafemissor.jpg
-          posicaoimagem: images-left
-          classcontem: 'contents-right'
+          posicaoimagem: images-right
+          classcontem: 'contents-left'
           linklabel: 'Website CIAF'
           link: https://site.ciaf.com.br/solucoes_detalhes/11
           details: |

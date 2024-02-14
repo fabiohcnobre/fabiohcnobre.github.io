@@ -2,13 +2,11 @@
 <section id="projects">
   <div class="user-details">
     <h1> {{projects.title}} </h1>
+    <p> {{ projects.detail}} </p>
   </div>
   {% for project in data.listprojects %}   
   {% assign projeto = project.project %}  
-  <div class="user-projects"> 
-      <div class="{{projeto.posicaoimagem}}">
-        <img alt="mountains" src="{{ projeto.imagem | prepend: site.baseurl }}" />
-      </div>
+  <div class="user-projects">      
       <div class="{{projeto.classcontem}}">
         <h3>{{projeto.title}}</h3>
         <ul>
@@ -16,6 +14,9 @@
         </ul>
         <p>{{projeto.details}}</p>
         <a class="project-link" href="{{projeto.link}}">{{projeto.linklabel}}</a>
+      </div>
+      <div class="{{projeto.posicaoimagem}}">
+        <img alt="mountains" src="{{ projeto.imagem | prepend: site.baseurl }}" />
       </div>
   </div>         
   {% endfor %} 

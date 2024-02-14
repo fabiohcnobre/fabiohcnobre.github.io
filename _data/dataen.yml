@@ -24,6 +24,7 @@ projects:
 footer:  
      title:   
      subtitle: 'for you'
+     update: 'Update: '
 
 listprojects:
      - project: 

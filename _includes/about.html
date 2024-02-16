@@ -2,7 +2,7 @@
 <section id="about">
   <div class="user-details">
     <h1> {{about.title}} </h1>
-    <p> {{ about.detail}} </p>
+    <p> {{ about.detail | markdownify }}</p>
     <a class="project-link" href="{{ about.curriculumLink }}">{{about.curriculum}}</a>
   </div>
     <div class="user">

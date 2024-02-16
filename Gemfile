@@ -1,8 +1,7 @@
 source "https://rubygems.org"
-
-gem install bundler:2.5.6
+ 
 gem "rails"
-gem "jekyll"
+gem "jekyll", "~> 4.3.3"
 gem 'github-pages'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

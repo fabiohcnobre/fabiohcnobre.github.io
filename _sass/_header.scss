@@ -52,27 +52,39 @@
     text-decoration: none;
     font-size: 15px;
     margin: 10px;
+    &:hover {
+      color: $main;
+      background: $sec;
+      border: 2px solid #FFF;
+    }
     @media only screen and (min-width:$cut){
       font-size: 20px;
     }
   }
 }
 
-.header-icons {
+.meuheader-icons {
   display: flex;
   justify-content: center;
-  text-align: center;
+  text-align: center; 
+  text-decoration: none;
+  a {
+    text-decoration: none;
+  }
   .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;    
+    width: 30px;
+    font-size: 20px;
     text-align: center;
     color: #FFF;
-    width: 20px;
-    height: 20px;
-    font-size: 20px;
-    padding: 10px;
     margin: 5px;
-    border-radius: 50%;
-    border: 2px solid #FFF;
+    border-radius: 100%;
+    border: 2px solid #FFF; 
     transition: all .7s;
+    text-decoration: none;
     &:hover {
       color: $main;
       background: #FFF;
@@ -80,11 +92,15 @@
     &:active {
       color: $main;
       background: #FFF;
+      text-align: center; 
+      text-decoration: none;
     }
     @media only screen and (min-width:$cut) {
-      width: 35px;
-      height: 35px;
+      width: 50px;
+      height: 50px;
       font-size: 35px;
+      text-align: center; 
+      text-decoration: none;
     }
   }
 }

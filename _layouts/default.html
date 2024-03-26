@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 {% if page.language == "en" %}
 {% assign data = site.data.dataen %}
-<html lang="en">
+<html lang="en"  data-bs-theme="dark"> 
 {% else %}
 {% assign data = site.data.data %}
-<html lang="pt-BR">
+<html lang="pt-BR"  data-bs-theme="light"> 
 {% endif %} 
   {% include head.html %}
   <body>

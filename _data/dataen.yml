@@ -24,6 +24,7 @@ footer:
      title:   
      subtitle: 'for you'
      update: 'Update: '
+     issue: 'Found a problem? Open an issue'
 
 
 projects:

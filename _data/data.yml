@@ -25,6 +25,7 @@ footer:
      title:  Fiz com muito
      subtitle: 'para você!'
      update: 'Atualizado em '
+     issue: 'Encontrou um problema? Abra uma "issue"'
 
 projects:
      title: Projetos     

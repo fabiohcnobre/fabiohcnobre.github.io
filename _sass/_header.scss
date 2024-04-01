@@ -52,6 +52,8 @@
     text-decoration: none;
     font-size: 15px;
     margin: 10px;
+    border: 2px solid #FFF;
+    border-radius:  10px 0px 10px 0px; 
     &:hover {
       color: $main;
       background: #FFF;

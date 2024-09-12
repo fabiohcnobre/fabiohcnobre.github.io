@@ -1,7 +1,10 @@
 # Site settings
 title: 'FABIOHCNOBRE'
 description: Developer
-url: 'https://fabiohcnobre.github.io/'
+tagline: Fabio Nobre Developer | Site do Fabio Nobre, desenvolvedor de software
+description: Site do Fabio Nobre, desenvolvedor de software
+url: 'https://fabiohcnobre.dev.br/'
+author: Fabio Nobre
 
 # User settings
 username: FabioHCNobre

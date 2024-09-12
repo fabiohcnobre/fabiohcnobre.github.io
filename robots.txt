@@ -12,6 +12,6 @@ Disallow: /pro-gallery-webapp/v1/galleries/*
 #User-agent: PetalBot
 # Disallow: /
 
-Sitemap: http://terapiainspire.com.br/sitemap.xml
+Sitemap: http://fabiohcnobre.dev.br/sitemap.xml
 
 # Auto generated, go to SEO Tools > Robots.txt Editor to change this

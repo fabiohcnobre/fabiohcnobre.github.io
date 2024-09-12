@@ -4,6 +4,13 @@ tagline: Fabio Nobre Developer | Site do Fabio Nobre, desenvolvedor de software
 description: Site do Fabio Nobre, desenvolvedor de software
 url: 'https://fabiohcnobre.dev.br/'
 author: Fabio Nobre
+social:
+  name: FabioHCNobre
+  links:
+    - https://twitter.com/FabioHCNobre
+    - https://www.facebook.com/FabioHCNobre
+    - https://www.linkedin.com/in/FabioHCNobre
+    - https://github.com/FabioHCNobre 
 
 # User settings
 username: FabioHCNobre

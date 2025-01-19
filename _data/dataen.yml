@@ -28,9 +28,9 @@ footer:
 
 
 projects:
-     title: Projetos 
+     title: Projects 
      detail: |
-          Projetos que participei e contribui para o desenvolvimento.
+          Projects that I participated in and contributed to the development of.
 
 listprojects:
      - project: 
@@ -57,10 +57,12 @@ listprojects:
                CIAF Emissor NFe is a simple and effective solution for small companies that just want to issue Electronic Invoices - NFe.
                This solution is prepared and approved in all states and fully complies with current tax legislation.
      - project: 
-          title: Sou + Conectado - Extensão PUC Minas
-          subtitle: 'Maquina virtual Java - Banco de Dados' 
-          posicaoimagem: images-right   
+          title: Sou + Conectado - PUC Minas
+          subtitle: 'Java Virtual Machine - Database' 
+          imagem: /assets/img/soumaisconectado.jpg 
+          imgalt: Imagem do Sou + Conectado
+          posicaoimagem: images-left   
           classcontem: 'contents-left' 
           details: |
-               O objetivo do projeto de extensão Sou mais Conectado é levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social para a comunidade de Poços de Caldas.
+               The objective of the Sou mais Conectado extension project is to bring notebook technology to the community and promote digital and social inclusion for the Poços de Caldas community.
      

@@ -60,7 +60,9 @@ listprojects:
      - project: 
           title: Sou + Conectado - Extensão PUC Minas
           subtitle: 'Maquina virtual Java - Banco de Dados' 
-          posicaoimagem: images-right   
+          imagem: /assets/img/soumaisconectado.jpg 
+          imgalt: Imagem do Sou + Conectado
+          posicaoimagem: images-left   
           classcontem: 'contents-left' 
           details: |
                O objetivo do projeto de extensão Sou mais Conectado é levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social para a comunidade de Poços de Caldas.

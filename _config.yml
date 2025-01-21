@@ -1,6 +1,8 @@
 # Site settings
 title: 'FABIOHCNOBRE' 
 tagline: Fabio Nobre Developer | Site do Fabio Nobre, desenvolvedor de software | FABIOHCNOBRE
+logo: "../assets/img/logo2.png"  
+avatar: "https://avatars.githubusercontent.com/u/22354660" 
 description: Site do Fabio Nobre, desenvolvedor de software
 url: 'https://fabiohcnobre.dev.br/'
 author: Fabio Nobre

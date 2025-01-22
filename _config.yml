@@ -1,11 +1,26 @@
 # Site settings
 title: 'FABIOHCNOBRE' 
-tagline: Fabio Nobre Developer | Site do Fabio Nobre, desenvolvedor de software | FABIOHCNOBRE
-logo: "../assets/img/logo2.png"  
-avatar: "https://avatars.githubusercontent.com/u/22354660" 
+tagline: 'Fabio Nobre Developer | Site do Fabio Nobre, desenvolvedor de software | FABIOHCNOBRE'
+logo:  '/assets/img/logo2.png'  
 description: Site do Fabio Nobre, desenvolvedor de software
 url: 'https://fabiohcnobre.dev.br/'
-author: Fabio Nobre
+avatar: 'https://avatars.githubusercontent.com/u/22354660'
+image:  https://fabiohcnobre.dev.br/assets/img/logo2.png
+author: 'FabioHCNobre' 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:  'https://avatars.githubusercontent.com/u/22354660'
+
+twitter:
+  username: fabiohcnobre
+  creator: fabiohcnobre
+  author: 'Fabio Nobre'
+  card: summary
+  image:  '/assets/img/logo2.jpg'  
+
+
 social:
   name: FabioHCNobre
   links:
@@ -15,6 +30,9 @@ social:
     - https://github.com/FabioHCNobre 
 
 google_site_verification: d6z5Hk4kplVcWas26WYp4hBYl41gpO17TH1llUm3MtM 
+
+locale: pt_BR #en_US 
+timezone:  America/Sao_Paulo
 
 # User settings
 username: FabioHCNobre

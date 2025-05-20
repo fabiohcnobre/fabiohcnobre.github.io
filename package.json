@@ -1,6 +1,6 @@
 {
   "name": "fabiohcnobre.github.io",
-  "packageManager": "yarn@3.6.3",
+  "packageManager": "yarn@4.9.1",
   "dependencies": {
     "particle": "^0.1.4"
   }

@@ -64,6 +64,8 @@ listprojects:
           imgalt: Imagem do Sou + Conectado
           posicaoimagem: images-left   
           classcontem: 'contents-left' 
+          linklabel: 'Saiba mais sobre o projeto'
+          link: /pages/sou-mais-conectado
           details: |
                O objetivo do projeto de extensão Sou mais Conectado é levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social para a comunidade de Poços de Caldas.
      

@@ -18,19 +18,17 @@ title: Sou + Conectado - Extensão PUC Minas
     </nav>
   </div>
 
-  <div class="user-projects" id="sobre" style="overflow: auto;">
-    <div class="images-left">
-      <img alt="Imagem do Sou + Conectado" src="/assets/img/soumaisconectado.jpg" />
+  <div class="user-details" id="sobre" style="margin-top: 40px;">
+    <div style="text-align: center; margin-bottom: 30px;">
+      <img alt="Imagem do Sou + Conectado" src="/assets/img/soumaisconectado.jpg" style="max-width: 100%; height: auto; border-radius: 8px;" />
     </div>
-    <div class="contents-right">
-      <h2>Sobre o Projeto</h2>
-      <p>
-        O projeto de extensão <strong>Sou + Conectado</strong> é uma iniciativa da PUC Minas Campus Poços de Caldas que tem como objetivo principal levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social.
-      </p>
-      <p>
-        Este projeto visa democratizar o acesso à tecnologia e proporcionar oportunidades de aprendizado e desenvolvimento para a comunidade de Poços de Caldas, contribuindo para a redução da desigualdade digital.
-      </p>
-    </div>
+    <h2>Sobre o Projeto</h2>
+    <p>
+      O projeto de extensão <strong>Sou + Conectado</strong> é uma iniciativa da PUC Minas Campus Poços de Caldas que tem como objetivo principal levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social.
+    </p>
+    <p>
+      Este projeto visa democratizar o acesso à tecnologia e proporcionar oportunidades de aprendizado e desenvolvimento para a comunidade de Poços de Caldas, contribuindo para a redução da desigualdade digital.
+    </p>
   </div>
 
   <div class="user-details" id="objetivos">

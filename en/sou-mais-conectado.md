@@ -18,19 +18,17 @@ title: Sou + Conectado - PUC Minas Extension Project
     </nav>
   </div>
 
-  <div class="user-projects" id="about" style="overflow: auto;">
-    <div class="images-left">
-      <img alt="Sou + Conectado Project Image" src="/assets/img/soumaisconectado.jpg" />
+  <div class="user-details" id="about" style="margin-top: 40px;">
+    <div style="text-align: center; margin-bottom: 30px;">
+      <img alt="Sou + Conectado Project Image" src="/assets/img/soumaisconectado.jpg" style="max-width: 100%; height: auto; border-radius: 8px;" />
     </div>
-    <div class="contents-right">
-      <h2>About the Project</h2>
-      <p>
-        The <strong>Sou + Conectado</strong> extension project is an initiative from PUC Minas Campus Poços de Caldas that aims to bring notebook technology to the community and promote digital and social inclusion.
-      </p>
-      <p>
-        This project seeks to democratize access to technology and provide learning and development opportunities for the Poços de Caldas community, contributing to reducing digital inequality.
-      </p>
-    </div>
+    <h2>About the Project</h2>
+    <p>
+      The <strong>Sou + Conectado</strong> extension project is an initiative from PUC Minas Campus Poços de Caldas that aims to bring notebook technology to the community and promote digital and social inclusion.
+    </p>
+    <p>
+      This project seeks to democratize access to technology and provide learning and development opportunities for the Poços de Caldas community, contributing to reducing digital inequality.
+    </p>
   </div>
 
   <div class="user-details" id="goals">

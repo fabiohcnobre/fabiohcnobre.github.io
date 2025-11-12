@@ -63,6 +63,8 @@ listprojects:
           imgalt: Imagem do Sou + Conectado
           posicaoimagem: images-left   
           classcontem: 'contents-left' 
+          linklabel: 'Learn more about the project'
+          link: /en/sou-mais-conectado
           details: |
                The objective of the Sou mais Conectado extension project is to bring notebook technology to the community and promote digital and social inclusion for the Poços de Caldas community.
      

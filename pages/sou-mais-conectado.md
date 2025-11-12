@@ -18,7 +18,7 @@ title: Sou + Conectado - Extensão PUC Minas
     </nav>
   </div>
 
-  <div class="user-projects" id="sobre">
+  <div class="user-projects" id="sobre" style="overflow: auto;">
     <div class="images-left">
       <img alt="Imagem do Sou + Conectado" src="/assets/img/soumaisconectado.jpg" />
     </div>

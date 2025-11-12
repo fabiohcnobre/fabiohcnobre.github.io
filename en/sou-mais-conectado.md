@@ -18,7 +18,7 @@ title: Sou + Conectado - PUC Minas Extension Project
     </nav>
   </div>
 
-  <div class="user-projects" id="about">
+  <div class="user-projects" id="about" style="overflow: auto;">
     <div class="images-left">
       <img alt="Sou + Conectado Project Image" src="/assets/img/soumaisconectado.jpg" />
     </div>

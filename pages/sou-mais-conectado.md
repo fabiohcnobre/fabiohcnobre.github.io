@@ -8,9 +8,17 @@ title: Sou + Conectado - Extensão PUC Minas
   <div class="user-details">
     <h1>Sou + Conectado - Extensão PUC Minas</h1>
     <p><strong>Tecnologias:</strong> Máquina Virtual Java - Banco de Dados</p>
+    <nav style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+        <a href="#sobre" style="text-decoration: none; color: #3942E4; font-weight: 500;">Sobre o Projeto</a>
+        <a href="#objetivos" style="text-decoration: none; color: #3942E4; font-weight: 500;">Objetivos</a>
+        <a href="#impacto" style="text-decoration: none; color: #3942E4; font-weight: 500;">Impacto Social</a>
+        <a href="#tecnologias" style="text-decoration: none; color: #3942E4; font-weight: 500;">Tecnologias</a>
+      </div>
+    </nav>
   </div>
 
-  <div class="user-projects">
+  <div class="user-projects" id="sobre">
     <div class="images-left">
       <img alt="Imagem do Sou + Conectado" src="/assets/img/soumaisconectado.jpg" />
     </div>
@@ -25,7 +33,7 @@ title: Sou + Conectado - Extensão PUC Minas
     </div>
   </div>
 
-  <div class="user-details">
+  <div class="user-details" id="objetivos">
     <h2>Objetivos do Projeto</h2>
     <ul style="text-align: left; max-width: 800px; margin: 0 auto;">
       <li>Promover a inclusão digital através do acesso a notebooks e tecnologia</li>
@@ -36,7 +44,7 @@ title: Sou + Conectado - Extensão PUC Minas
     </ul>
   </div>
 
-  <div class="user-details">
+  <div class="user-details" id="impacto">
     <h2>Impacto Social</h2>
     <p>
       O projeto <strong>Sou + Conectado</strong> representa um importante compromisso social da PUC Minas com a comunidade de Poços de Caldas. Através desta iniciativa de extensão universitária, alunos e professores trabalham juntos para:
@@ -50,7 +58,7 @@ title: Sou + Conectado - Extensão PUC Minas
     </ul>
   </div>
 
-  <div class="user-details">
+  <div class="user-details" id="tecnologias">
     <h2>Tecnologias Utilizadas</h2>
     <p>
       O projeto utiliza diversas tecnologias para gerenciar e distribuir os recursos, incluindo:

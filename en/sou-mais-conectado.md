@@ -8,9 +8,17 @@ title: Sou + Conectado - PUC Minas Extension Project
   <div class="user-details">
     <h1>Sou + Conectado - PUC Minas Extension Project</h1>
     <p><strong>Technologies:</strong> Java Virtual Machine - Database</p>
+    <nav style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+        <a href="#about" style="text-decoration: none; color: #3942E4; font-weight: 500;">About the Project</a>
+        <a href="#goals" style="text-decoration: none; color: #3942E4; font-weight: 500;">Project Goals</a>
+        <a href="#impact" style="text-decoration: none; color: #3942E4; font-weight: 500;">Social Impact</a>
+        <a href="#technologies" style="text-decoration: none; color: #3942E4; font-weight: 500;">Technologies</a>
+      </div>
+    </nav>
   </div>
 
-  <div class="user-projects">
+  <div class="user-projects" id="about">
     <div class="images-left">
       <img alt="Sou + Conectado Project Image" src="/assets/img/soumaisconectado.jpg" />
     </div>
@@ -25,7 +33,7 @@ title: Sou + Conectado - PUC Minas Extension Project
     </div>
   </div>
 
-  <div class="user-details">
+  <div class="user-details" id="goals">
     <h2>Project Goals</h2>
     <ul style="text-align: left; max-width: 800px; margin: 0 auto;">
       <li>Promote digital inclusion through access to notebooks and technology</li>
@@ -36,7 +44,7 @@ title: Sou + Conectado - PUC Minas Extension Project
     </ul>
   </div>
 
-  <div class="user-details">
+  <div class="user-details" id="impact">
     <h2>Social Impact</h2>
     <p>
       The <strong>Sou + Conectado</strong> project represents an important social commitment from PUC Minas to the Poços de Caldas community. Through this university extension initiative, students and professors work together to:
@@ -50,7 +58,7 @@ title: Sou + Conectado - PUC Minas Extension Project
     </ul>
   </div>
 
-  <div class="user-details">
+  <div class="user-details" id="technologies">
     <h2>Technologies Used</h2>
     <p>
       The project uses various technologies to manage and distribute resources, including:

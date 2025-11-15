@@ -67,4 +67,15 @@ listprojects:
           link: /en/sou-mais-conectado
           details: |
                The objective of the Sou mais Conectado extension project is to bring notebook technology to the community and promote digital and social inclusion for the Poços de Caldas community.
+     - project: 
+          title: SNRHos - National Guest Registration System
+          subtitle: 'C# - .NET Standard 2.1 - NuGet Package' 
+          imagem: /assets/img/snrhos.jpg 
+          imgalt: SNRHos Image
+          posicaoimagem: images-right   
+          classcontem: 'contents-left' 
+          linklabel: 'Learn more about SNRHos'
+          link: https://github.com/fabiohcnobre/SNRHos
+          details: |
+               The Digital FNRH (Digital National Guest Registration Form) is the electronic version of the mandatory form provided for in Law No. 11.771/2008 and Decree No. 7.381/2010. The solution allows the electronic submission of guest data to the National Guest Registration System, facilitating legal compliance and generating official statistics.
      

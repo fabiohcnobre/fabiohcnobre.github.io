@@ -68,4 +68,15 @@ listprojects:
           link: /pages/sou-mais-conectado
           details: |
                O objetivo do projeto de extensão Sou mais Conectado é levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social para a comunidade de Poços de Caldas.
+     - project: 
+          title: SNRHos - Sistema Nacional de Registro de Hóspedes
+          subtitle: 'C# - .NET Standard 2.1 - NuGet Package' 
+          imagem: /assets/img/snrhos.jpg 
+          imgalt: Imagem do SNRHos
+          posicaoimagem: images-right   
+          classcontem: 'contents-left' 
+          linklabel: 'Conheça o projeto SNRHos'
+          link: https://github.com/fabiohcnobre/SNRHos
+          details: |
+               O FNRH Digital (Ficha Nacional de Registro de Hóspedes digital) é a versão eletrônica do formulário obrigatório previsto na Lei nº 11.771/2008 e Decreto nº 7.381/2010. A solução permite o envio eletrônico dos dados de hóspedes para o Sistema Nacional de Registro de Hóspedes, facilitando o cumprimento legal e a geração de estatísticas oficiais.
      

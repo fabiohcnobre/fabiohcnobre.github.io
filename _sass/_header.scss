@@ -3,19 +3,13 @@
   display: flex;
   vertical-align: bottom;
   width: 100%;
-  min-height: 50vh;
+  min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  @media only screen and (min-width:$cut){
-    min-height: 100vh;
-  }
   .particles-js-canvas-el {
     width:100% !important;
-    height:50vh !important;
-    @media only screen and (min-width:$cut){
-      height:100vh !important;
-    }
+    height:100vh !important;
   }
 }
 

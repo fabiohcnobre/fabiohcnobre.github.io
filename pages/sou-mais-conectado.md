@@ -2,6 +2,8 @@
 layout: default_page
 language: pt-br
 title: Sou + Conectado - Extensão PUC Minas
+description: O projeto de extensão Sou + Conectado é uma iniciativa da PUC Minas Campus Poços de Caldas que tem como objetivo principal levar a tecnologia dos notebooks para a comunidade e promover a inclusão digital e social.
+image: https://fabiohcnobre.dev.br/assets/img/soumaisconectado.jpg
 ---
 
 <section id="sou-mais-conectado">

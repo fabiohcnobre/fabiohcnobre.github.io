@@ -2,6 +2,8 @@
 layout: default_page
 language: en
 title: Sou + Conectado - PUC Minas Extension Project
+description: The Sou + Conectado extension project is an initiative from PUC Minas Campus Poços de Caldas that aims to bring notebook technology to the community and promote digital and social inclusion.
+image: https://fabiohcnobre.dev.br/assets/img/soumaisconectado.jpg
 ---
 
 <section id="sou-mais-conectado">

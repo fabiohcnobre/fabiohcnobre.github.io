@@ -1,8 +1,8 @@
 // Navbar styles for page layouts
-// On mobile (screens smaller than $cut), reduce navbar padding from 2rem to 1rem (half) for page layouts
+// On mobile (screens smaller than $cut), reduce navbar padding from 2rem to 0.5rem for page layouts
 
 .page-layout .navbar {
   @media only screen and (max-width: $cut) {
-    padding: 1rem 0 !important;
+    padding: 0.5rem 0 !important;
   }
 }

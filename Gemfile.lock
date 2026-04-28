@@ -99,7 +99,7 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    erb (6.0.2)
+    erb (6.0.4)
     erubi (1.13.1)
     ethon (0.18.0)
       ffi (>= 1.15.0)

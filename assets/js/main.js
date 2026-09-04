@@ -71,5 +71,9 @@ window.toggleTheme = function(){
     var current = document.documentElement.getAttribute('data-bs-theme');
     var next = (current === 'dark') ? 'light' : 'dark';
     applyTheme(next);
+    if(window.console && console.debug) console.debug('toggleTheme ->', next);
     setCookie('theme', next, 365);
 }
+
+// debug: expose a check function
+window.__debugTheme = function(){ return { applied: document.documentElement.getAttribute('data-bs-theme'), cookie: getCookie('theme') }; };

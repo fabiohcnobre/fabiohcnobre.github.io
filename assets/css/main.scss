@@ -16,3 +16,42 @@
 	width: 40px;
 	height: 40px;
 }
+
+/* Styles for Sou + Conectado page navigation and dark-mode adjustments */
+#sou-mais-conectado .page-nav {
+	margin: 20px 0;
+	padding: 15px;
+	background-color: #f8f9fa;
+	border-radius: 8px;
+}
+
+#sou-mais-conectado .page-nav .page-nav-inner{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 20px;
+}
+
+#sou-mais-conectado .page-nav .page-nav-link{
+	text-decoration: none;
+	color: #3942E4;
+	font-weight: 500;
+}
+
+/* Dark theme overrides */
+[data-bs-theme="dark"] #sou-mais-conectado .page-nav{
+	background-color: rgba(255,255,255,0.03);
+}
+
+[data-bs-theme="dark"] #sou-mais-conectado .page-nav .page-nav-link{
+	color: #9bb8ff;
+}
+
+/* Improve text contrast in dark mode for content sections */
+[data-bs-theme="dark"] #sou-mais-conectado .user-details, 
+[data-bs-theme="dark"] #sou-mais-conectado .user-details h1,
+[data-bs-theme="dark"] #sou-mais-conectado .user-details h2,
+[data-bs-theme="dark"] #sou-mais-conectado .user-details p,
+[data-bs-theme="dark"] #sou-mais-conectado .user-details li{
+	color: #e6eef9;
+}

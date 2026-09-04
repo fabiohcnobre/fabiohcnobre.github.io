@@ -10,12 +10,12 @@ image: https://fabiohcnobre.dev.br/assets/img/soumaisconectado.jpg
   <div class="user-details">
     <h1>Sou + Conectado - Extensão PUC Minas</h1>
     <p><strong>Tecnologias:</strong> Máquina Virtual Java - Banco de Dados</p>
-    <nav style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-        <a href="#sobre" style="text-decoration: none; color: #3942E4; font-weight: 500;">Sobre o Projeto</a>
-        <a href="#objetivos" style="text-decoration: none; color: #3942E4; font-weight: 500;">Objetivos</a>
-        <a href="#impacto" style="text-decoration: none; color: #3942E4; font-weight: 500;">Impacto Social</a>
-        <a href="#tecnologias" style="text-decoration: none; color: #3942E4; font-weight: 500;">Tecnologias</a>
+    <nav class="page-nav">
+      <div class="page-nav-inner">
+        <a class="page-nav-link" href="#sobre">Sobre o Projeto</a>
+        <a class="page-nav-link" href="#objetivos">Objetivos</a>
+        <a class="page-nav-link" href="#impacto">Impacto Social</a>
+        <a class="page-nav-link" href="#tecnologias">Tecnologias</a>
       </div>
     </nav>
   </div>

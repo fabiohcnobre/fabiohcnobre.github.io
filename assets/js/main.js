@@ -1,5 +1,19 @@
 document.addEventListener("DOMContentLoaded", function () {
     new SweetScroll({});
+
+    var stickyNav = document.getElementById('sticky-nav');
+    var heroHeader = document.getElementById('particles-js');
+    if (stickyNav && heroHeader) {
+        var toggleStickyNav = function () {
+            if (window.scrollY > heroHeader.offsetHeight - 80) {
+                stickyNav.classList.add('is-visible');
+            } else {
+                stickyNav.classList.remove('is-visible');
+            }
+        };
+        window.addEventListener('scroll', toggleStickyNav);
+        toggleStickyNav();
+    }
     if (typeof particlesJS === 'function' && document.getElementById('particles-js')) {
         particlesJS("particles-js", {
             particles: {

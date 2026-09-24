@@ -2,8 +2,11 @@
 {% if page.language == "en" %}{% assign data = site.data.dataen %}<html lang="en"  data-bs-theme="dark"> {% else %}{% assign data = site.data.data %}<html lang="pt-BR"  data-bs-theme="light"> 
 {% endif %}{% include head.html %}
 <body>
+<div id="sticky-nav" class="sticky-nav">
+  {% include menu.html %}
+</div>
 {% include header.html %}
-{% include about.html %} 
+{% include about.html %}
 {% include projects.html %}
   {{ content }}
 {% include footer.html %}

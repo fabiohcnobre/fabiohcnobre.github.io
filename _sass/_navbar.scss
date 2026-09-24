@@ -6,3 +6,18 @@
     padding: 0.5rem 0 !important;
   }
 }
+
+// Sticky navbar shown on the home page once the user scrolls past the hero header
+.sticky-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  transform: translateY(-100%);
+  transition: transform 0.3s ease-in-out;
+
+  &.is-visible {
+    transform: translateY(0);
+  }
+}
